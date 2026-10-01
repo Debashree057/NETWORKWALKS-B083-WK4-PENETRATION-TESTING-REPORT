@@ -128,11 +128,11 @@ The bypass provided access to the restricted patient portal and exposed **three 
 
 ### Evidence
 
-![Patient portal authentication](evidences/patient_portal_auth.png)
-![Burp Suite request response](evidences/burp_request_response.png)
+![Patient portal authentication](evidences/patient_portal.png)
+![Burp Suite request response](evidences/http_history.png)
+![Patient portal authentication](evidences/patient_warning.png)
 ![Authentication bypass](evidences/sql_injection.png)
-![Three laboratory reports](evidences/laboratory_reports.png)
-
+![Three laboratories reports](evidences/portal_access.png)
 
 ---
 
@@ -154,10 +154,11 @@ No patient information is reproduced in this README.
 
 ### Evidence
 
-![Hash calculator output](evidences/hash_calculator.png)
-![Password recovery](evidences/password_recovery.png)
-![Recovered PDF passwords](evidences/pdf_passwords.png)
-![Opened laboratory reports](evidences/opened_reports.png)
+![Hash calculator output](evidences/hash-calculator.png)
+![Password recovery](evidences/password_cracker.png)
+![laboratory reports](evidences/pdf1.png)
+![laboratory reports](evidences/pdf2.png)
+![laboratory reports](evidences/pdf3.png)
 
 ---
 
@@ -201,11 +202,12 @@ Actual personal values and identifiers are intentionally omitted.
 
 ### Evidence
 
-![Robots.txt findings](evidences/robots_txt.png)
-![Old directory listing](evidences/old_directory.png)
-![Database backup](evidences/database_backup.png)
-![Staff database records](evidences/staff_records.png)
-![Shareholder records](evidences/shareholder_records.png)
+![curl records](evidences/curl.png)
+![Robots.txt findings](evidences/robots.txt.png)
+![Old directory listing](evidences/old.png)
+![Database backup](evidences/db_backup_sql.png)
+![Staff & Shareholder database records](evidences/db_backup_sql2.png)
+
 
 ---
 
