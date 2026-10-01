@@ -130,7 +130,7 @@ The bypass provided access to the restricted patient portal and exposed **three 
 
 ![Patient portal authentication](evidences/patient_portal.png)
 ![Burp Suite request response](evidences/http_history.png)
-![Patient portal authentication](evidences/patient_warning.png)
+![Patient portal warning](evidences/portal_warning.png)
 ![Authentication bypass](evidences/sql_injection.png)
 ![Three laboratories reports](evidences/portal_access.png)
 
