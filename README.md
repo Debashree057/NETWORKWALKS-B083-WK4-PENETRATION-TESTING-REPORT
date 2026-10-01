@@ -11,6 +11,8 @@
 ![NetworkWalks Tools](https://img.shields.io/badge/NetworkWalks%20Tools-yellow?style=for-the-badge)
 
 A penetration test was conducted against the authorized Mediroza General Hospital environment as part of the Networkwalks B083 Week 4 assessment.
+> 📌 **Note:** This README is an overview.  
+> See the full [report.docx](report.doc) for details.
 
 | **Project Details**    | **Details**                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------ |
@@ -295,10 +297,10 @@ The M4 milestone consolidated the methodology, findings, risk ratings, remediati
 
 ## Conclusion
 
+This README provides an overview of the penetration testing report. A detailed report is available as a **DOC file** attached in this repository.
+
 The assessment identified three significant weaknesses within the authorized Mediroza Hospital environment.
-
 The testing demonstrated that weaknesses in **authentication input handling, document protection, and publicly accessible backup files** could expose confidential information.
-
 The findings, remediation recommendations, detailed report, and supporting evidence have been documented to support security improvement and remediation.
 
 
