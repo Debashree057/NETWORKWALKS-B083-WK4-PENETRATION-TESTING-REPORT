@@ -12,7 +12,7 @@
 
 A penetration test was conducted against the authorized Mediroza General Hospital environment as part of the Networkwalks B083 Week 4 assessment.
 > 📌 **Note:** This README is an overview.  
-> See the full [report.docx](report.doc) for details.
+> See the full [Mediroza_report.docx](Mediroza_report.doc) for details.
 
 | **Project Details**    | **Details**                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------ |
